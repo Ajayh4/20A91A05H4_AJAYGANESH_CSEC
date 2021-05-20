@@ -1,12 +1,20 @@
+#INPUT:
 a=int(input("enter a"))
-enter a2
 b=int(input("enter b"))
-enter b4
 c=int(input("enter c"))
-enter c6
+
+#CALCULATING SUM
 sum=(a+b+c)
-print(sum)
-12
+print("sum=",sum)
+
+#CALCULATING AVEARGE
 average=(sum)/3
-print(average)
-4.0
+print("average=",average)
+
+
+#OUTPUT:
+enter a2
+enter b4
+enter c6
+sum=12
+average=4.0
