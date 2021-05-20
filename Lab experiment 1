@@ -1,0 +1,12 @@
+a=int(input("enter a"))
+enter a2
+b=int(input("enter b"))
+enter b4
+c=int(input("enter c"))
+enter c6
+sum=(a+b+c)
+print(sum)
+12
+average=(sum)/3
+print(average)
+4.0
