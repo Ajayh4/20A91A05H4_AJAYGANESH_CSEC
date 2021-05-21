@@ -1,0 +1,13 @@
+#INPUT
+a=int(input("enter a"))
+enter a        #reading input
+if a<20 :
+   Print('a is <20')
+   Print('hello')
+
+
+
+#OUTPUT
+enter a 15
+ a is <a
+ Hello
