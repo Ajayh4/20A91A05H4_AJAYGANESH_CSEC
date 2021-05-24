@@ -1,0 +1,19 @@
+#INPUT
+a=int(input("enter a"))
+b=int(input("enter b"))
+if (a%2!=0):
+      print("number is odd number")
+else
+      print("not an odd number")
+if (b%2!=0):
+      print("number is odd number")
+else
+      print("not an odd number")
+
+
+
+#OUTPUT
+enter a4
+not an odd number
+enter b5
+nnumber is odd number
