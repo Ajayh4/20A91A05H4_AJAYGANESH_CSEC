@@ -1,0 +1,6 @@
+i=int(input())  #starting value
+j=int(input())  #end value
+k=int(input())  #step count
+while i<=j :
+    print(i)
+    i+=k
