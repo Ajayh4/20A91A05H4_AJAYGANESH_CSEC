@@ -1,0 +1,15 @@
+#FINDING FACTORS AND TO CHECK WHETHER PRIMENUMBER OR NOT
+a=int(input("enter number"))
+n=0
+fact=0
+while(n<=a) :
+    n+=1
+    if(a%n==0) :
+        fact+=1
+        print("factor is %d",n)
+
+print("number of factors are %d",fact)
+if(fact==2) :
+    print("PRIME NUMBER")
+else :
+    print("NOT A PRIME NUMBER")
