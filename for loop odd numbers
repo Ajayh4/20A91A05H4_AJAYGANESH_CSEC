@@ -1,0 +1,8 @@
+#INPUT  
+s=int(input("enter start value"))
+e=int(input("enter end value"))
+for i in range(s,e,2):
+    if(s%2==0):
+        print(i+1,end=' ')
+    else:
+        print(i,end=' ')
